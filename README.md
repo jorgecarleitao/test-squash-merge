@@ -1,5 +1,6 @@
 # test-squash-merge
 
+Introduction
 
 # Section one
 
